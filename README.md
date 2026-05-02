@@ -130,8 +130,4 @@ This project showcases practical skills in:
 * SQL across multiple database systems
 * Data visualization and storytelling
 
-It reflects a complete analytics workflow from raw data to actionable insights.
 
----
-
-If you want, I can tailor this to a specific domain (finance, sales, healthcare) or make it stand out more for resumes or GitHub.
